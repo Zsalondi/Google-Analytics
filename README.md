@@ -50,6 +50,8 @@ Next find the total number of new users and the number and percentage of new use
 <p>
 <img src="https://i.imgur.com/HUfJZEf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://i.imgur.com/sCatPit.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 
 <p> Then, calculate the percentage of new users from each search engine. </p>
