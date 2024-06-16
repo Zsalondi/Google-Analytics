@@ -84,13 +84,14 @@ The manager asked for the total users for the following events:
 <p>
 <img src="https://i.imgur.com/NPk12kI.png" height="80%" width="80%" alt=""/>
 </p>
+<p>
+<img src="https://i.imgur.com/wkS3gED.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 <p>
 Under 'Tickets' > 'Tasks', check all boxes to enable complete access.</p>
-<p>
-<img src="https://i.imgur.com/6GS0Yna.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <br />
 
 <p>
