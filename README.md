@@ -85,23 +85,13 @@ The manager asked for the total users for the following events:
 <img src="https://i.imgur.com/NPk12kI.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-<img src="https://i.imgur.com/wkS3gED.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oYkdrSU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
 Under 'Tickets' > 'Tasks', check all boxes to enable complete access.</p>
 
-<br />
-
-<p>
-In the 'Tickets' > 'Tasks' > 'Knowledgebase' section, ensure all boxes are checked for full privileges.</p>
-<p>
-<img src="https://i.imgur.com/jNqtmL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://i.imgur.com/0elZtnW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <br />
 
 
