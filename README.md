@@ -19,15 +19,20 @@ As a new marketing associate at Google, you have been asked to familiarize yours
 
 - Google Analytics 4 property: Google Merchandise Store (web data)
 
-<h2>Access the Google Analytics demo account</h2>
+<h2>Step 1: Access the Google Analytics demo account</h2>
 <p>https://analytics.google.com/analytics/web/demoAccount?appstate=/p213025502</p>
 <img src="https://i.imgur.com/uy1deJs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>Step 2: Set the month for the time frame </h2>
 <p>
-Ensure you are in the Admin Panel, where you can access essential configuration and management settings.</p>
+Navigate to Reports to locate and click the date range, and then select Custom.</p>
 <p>
-<img src="https://i.imgur.com/89Ws8i4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gW5bgZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/4mE6R8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
