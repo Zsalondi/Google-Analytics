@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/B9CC1Sv.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>Google Analytics: Finding Key Metrics</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
