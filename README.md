@@ -15,26 +15,12 @@ The metrics will be used to analyze information such as customer engagement, mon
 
 As a new marketing associate at Google, you have been asked to familiarize yourself with the metrics in Google Analytics that are available for the Google Merchandise Store. To help you do this, your manager has given you a list of metrics for user acquisition, engagement, and monetization that you can view under the Life cycle section of the tool. Normally, someone reviews these metrics on a monthly basis. Since this has been incorporated into your training assignment, everyone on the team is thrilled that you’ll be helping to get some real work done!
 
-<h2>Operating Systems Used </h2>
+<h2>Tools Used </h2>
 
-- Windows 10</b> (21H2)
+- Google Analytics 4 property: Google Merchandise Store (web data)
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Configure Roles
-- Configure Departments
-- Configure Teams
-- Allow anyone to create tickets
-- Configure Agents (workers)
-- Configure Users (customers)
-- Configure SLA
-- Configure Help Topics
-
-<h2>Configuration Steps</h2>
-
-<p>First, we'll create a role named 'Supreme Admin.' In osTicket, roles define the permissions assigned to Agents, determining their access level within each Department they are part of. This foundational step ensures structured access control from the outset.</p>
-<img src="https://i.imgur.com/lhuRBrG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<h2>Access the Google Analytics demo account</h2>
+<img src="https://i.imgur.com/uy1deJs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p>
