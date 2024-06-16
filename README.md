@@ -98,6 +98,10 @@ Browse the data under Life cycle > Monetization to find the revenue amounts and 
 <p>
 <img src="https://i.imgur.com/k0Psy5O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://i.imgur.com/ejztlY8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br />
 
 
