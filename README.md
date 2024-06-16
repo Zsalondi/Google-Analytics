@@ -27,16 +27,22 @@ As a new marketing associate at Google, you have been asked to familiarize yours
 <h2>Step 2: Set the month for the time frame </h2>
 <p>
 Navigate to Reports to locate and click the date range, and then select Custom.</p>
-<p>
 <img src="https://i.imgur.com/gW5bgZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>With the start date highlighted, scroll up and select January 1 of the current year on the calendar. Next, click to highlight the end date and scroll up to select January 31 of the current year.</p>
-<img src="https://i.imgur.com/4mE6R8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<p>With the start date highlighted, scroll up and select January 1 of the current year on the calendar. Next, click to highlight the end date and scroll up to select January 31 of the current year.</p>
+<p> <img src="https://i.imgur.com/4mE6R8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>Step 4: Find Acquisition metrics</h2>
 <p>
-Navigate to 'Agents' > 'Roles' > 'Add New Role' to proceed.</p>
+Next find the total number of new users and the number and percentage of new users who arrive at the Google Merchandise Store after using these search engines:
+<ul>
+  <li>Google</li>
+  <li>Bing</li>
+  <li>YouTube</li>
+  <li>Baidu</li>
+</ul></p>
 <p>
 <img src="https://i.imgur.com/NnpxLCH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
