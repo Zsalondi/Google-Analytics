@@ -44,10 +44,11 @@ Next find the total number of new users and the number and percentage of new use
   <li>Baidu</li>
 </ul></p>
 <p>Browse the data under Life cycle > Engagement to find each of the events, and record the values for total users in your activity template. In your activity template, also calculate and record the following as insights for your manager:
-Number of users with cart abandonment =
+
+<p> Number of users with cart abandonment = <p>
 <ul>
 <li>(total users for begin_checkout) − (total users for purchase)</li>
-<li>Sales conversion rate = [(total users for purchase) / (session_start)] x 100<li>
+<li>Sales conversion rate = [(total users for purchase) / (session_start)] x 100 </li>
 </ul>
 </p>
 
