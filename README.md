@@ -11,11 +11,9 @@ The metrics will be used to analyze information such as customer engagement, mon
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com) --->
 
-<h2>Environments and Technologies Used</h2>
+<h2>Scenario</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+As a new marketing associate at Google, you have been asked to familiarize yourself with the metrics in Google Analytics that are available for the Google Merchandise Store. To help you do this, your manager has given you a list of metrics for user acquisition, engagement, and monetization that you can view under the Life cycle section of the tool. Normally, someone reviews these metrics on a monthly basis. Since this has been incorporated into your training assignment, everyone on the team is thrilled that you’ll be helping to get some real work done!
 
 <h2>Operating Systems Used </h2>
 
