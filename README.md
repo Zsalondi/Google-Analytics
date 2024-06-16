@@ -77,11 +77,12 @@ The manager asked for the total users for the following events:
 <li>[(total users for purchase) / (session_start)] x 100 </li>
 </ul>
 </p>
+<br />
 
-
+<p>Use the drop-down for Rows per page and select 50 so you can view all the events on a single page.</p>
 </p>
 <p>
-<img src="https://i.imgur.com/2IfIWgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NPk12kI.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
