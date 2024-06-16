@@ -89,20 +89,19 @@ The manager asked for the total users for the following events:
 </p>
 <br />
 
+<h2>Step 5: Find Monetization metrics</h2>
 <p>
-Under 'Tickets' > 'Tasks', check all boxes to enable complete access.</p>
+The manager has asked for the total revenue, the number of first-time buyers, and the top three best-selling items. <br />
 
-<br />
-
-
-
-<p>
-To add a new department, navigate to 'Agents' > 'Departments' > 'Add New Department'.
+Browse the data under Life cycle > Monetization to find the revenue amounts and top three best-selling items. Record the information. 
 </p>
 <p>
-<img src="https://i.imgur.com/cjiPJOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/k0Psy5O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+
+
 
 <p>
 Tickets are directed through various departments within the help desk, each of which can be customized with its own set of settings.
