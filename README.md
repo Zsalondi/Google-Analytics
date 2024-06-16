@@ -48,13 +48,13 @@ Next find the total number of new users and the number and percentage of new use
 
 <p> Browse the data under Life cycle > Acquisition to find where you can locate the search information, and record the total new users and number of new users for each search engine. </p>
 <p>
-<img src="https://i.imgur.com/TSphGKG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HUfJZEf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p> Then, calculate the percentage of new users from each search engine. </p>
 <p>
-<img src="https://i.imgur.com/HUfJZEf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KINLE2i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
