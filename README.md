@@ -72,8 +72,8 @@ The manager asked for the total users for the following events:
 <p>Browse the data under Life cycle > Engagement to find each of the events, and record the values for total users. Also, calculate and record the following as insights for your manager:
 <ul>
 <b>Number of users with cart abandonment = </b>
-<li>(total users for begin_checkout) − (total users for purchase)</li>
-Sales conversion rate = 
+<li>(total users for begin_checkout) − (total users for purchase)</li> <br />
+<b>Sales conversion rate =</b> 
 <li>[(total users for purchase) / (session_start)] x 100 </li>
 </ul>
 </p>
