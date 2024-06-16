@@ -89,7 +89,7 @@ The manager asked for the total users for the following events:
 <p>
 Under 'Tickets' > 'Tasks', check all boxes to enable complete access.</p>
 <p>
-<img src="https://i.imgur.com/058QTsk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6GS0Yna.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -98,14 +98,12 @@ In the 'Tickets' > 'Tasks' > 'Knowledgebase' section, ensure all boxes are check
 <p>
 <img src="https://i.imgur.com/jNqtmL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-
-<p>
-Confirm that the new role has been successfully added to the panel.</p>
 <p>
 <img src="https://i.imgur.com/0elZtnW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+
 
 <p>
 To add a new department, navigate to 'Agents' > 'Departments' > 'Add New Department'.
