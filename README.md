@@ -34,7 +34,7 @@ Navigate to Reports to locate and click the date range, and then select Custom.<
 <p> <img src="https://i.imgur.com/4mE6R8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-<h2>Step 4: Find Acquisition metrics</h2>
+<h2>Step 3: Find Acquisition metrics</h2>
 <p>
 Next find the total number of new users and the number and percentage of new users who arrive at the Google Merchandise Store after using these search engines:
 <ul>
@@ -60,8 +60,18 @@ Next find the total number of new users and the number and percentage of new use
 </p>
 <br />
 
+<h2>Step 4: Find Engagement metrics</h2>
 <p>
-Select all permission boxes for the 'Supreme Admin' role to grant full access.</p>
+The manager asked for the total users for the following events:
+<ul>
+  <li>session_start</li>
+  <li>begin_checkout</li>
+  <li>remove_from_cart</li>
+  <li>purchase</li>
+</ul></p>
+
+
+</p>
 <p>
 <img src="https://i.imgur.com/2IfIWgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
