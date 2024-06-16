@@ -3,7 +3,8 @@
 </p>
 
 <h1>Google Analytics: Finding Key Metrics</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.
+This tutorial outlines how to explore metrics in a Google Analytics demo account by reviewing a scenario with metrics of interest, finding the values for those metrics, and recording the results.<br />
 
 
 <!---<h2>Video Demonstration</h2>
