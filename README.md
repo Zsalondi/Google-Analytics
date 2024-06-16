@@ -31,9 +31,8 @@ Navigate to Reports to locate and click the date range, and then select Custom.<
 <img src="https://i.imgur.com/gW5bgZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>
+<p>With the start date highlighted, scroll up and select January 1 of the current year on the calendar. Next, click to highlight the end date and scroll up to select January 31 of the current year.</p>
 <img src="https://i.imgur.com/4mE6R8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <br />
 
 <p>
