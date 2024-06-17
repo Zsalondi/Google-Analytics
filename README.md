@@ -85,7 +85,7 @@ The manager asked for the total users for the following events:
 <img src="https://i.imgur.com/NPk12kI.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-<img src="https://i.imgur.com/oVyLqVm.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/TRsPADo.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
 <img src="https://i.imgur.com/oYkdrSU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
