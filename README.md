@@ -20,7 +20,7 @@ As a new marketing associate at Google, you have been asked to familiarize yours
 - Google Analytics 4 property: Google Merchandise Store (web data)
 
 <h2>Step 1: Access the Google Analytics demo account</h2>
-<p>https://analytics.google.com/analytics/web/demoAccount?appstate=/p213025502</p>
+<p>Click the following to learn how to access the <a href="https://analytics.google.com/analytics/web/demoAccount?appstate=/p213025502">Google demo account</a>.</p>
 <img src="https://i.imgur.com/uy1deJs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
